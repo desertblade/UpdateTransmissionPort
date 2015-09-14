@@ -22,3 +22,5 @@ add a new cron
 15  * * * * root /usr/local/etc/openvpn/updateTransmissionPort.sh
 ```
 This will run 15 minutes after each hour
+
+ctrl-o to save changes ctrl-x to exit
